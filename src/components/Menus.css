@@ -1,0 +1,31 @@
+
+.app-menus {
+    height: 25rem;
+    width: 49rem;
+
+    margin: 5rem auto ;
+    text-align: start;
+    background-color: #ea80fc;
+    border-radius: 0.5rem;
+    overflow-y: auto;
+    overflow-x: hidden;
+
+    padding: 1rem;
+}
+
+.app-restaurant-menu {
+    padding: 0.25rem 1rem;
+}
+
+.app-menu-child {
+    padding: 0.25rem 1rem;
+}
+
+.app-menu-item {
+    display: inline-block;
+    padding: 0.25rem 1rem;
+    color: #ffffff;
+    background-color: #4a148c;
+    border-radius: 0.5rem;
+    border: 0.25rem solid transparent;
+}
